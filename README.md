@@ -4,8 +4,8 @@ Simulate the Cyshield's website based on their request for an interview
  https://cylogz.cyshield.com/
 #Test the functionality of the main website
 ## notes
-1-
-##create the project
+
+## create the project
 ng new Simulation-Cyshield
 ## Development server
 

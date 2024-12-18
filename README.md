@@ -2,6 +2,11 @@
 Simulate the Cyshield's website based on their request for an interview
 # The main webste : 
  https://cylogz.cyshield.com/
+#Test the functionality of the main website
+## notes
+1-
+##create the project
+ng new Simulation-Cyshield
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
